@@ -1,0 +1,7 @@
+*.class
+
+__pycache__/
+*.pyc
+.vscode/
+output.mp3
+racing_high_score.json
